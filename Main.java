@@ -10,7 +10,6 @@
 * One enemy usually only does 1 damage when it gets through
 * However, taking one hit from Boss Galaga will result in a Spaceship's instant destruction
 * The game is endless, only ending if the player loses all its spaceships
-* There's also a bonus cheatcode to skip non-boss levels (C)
 */
 
 /*ALSO, you might be wondering about my lack of arrays here
